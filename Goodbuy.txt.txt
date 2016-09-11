@@ -1,0 +1,2 @@
+print ("Goodbuy world")
+print ("buy")
