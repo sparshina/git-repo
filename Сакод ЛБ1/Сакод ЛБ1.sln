@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сакод ЛБ1", "Сакод ЛБ1\Сакод ЛБ1.csproj", "{8386B042-8729-45F3-A734-3EE4C08BEA04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "задача 2", "задача 2\задача 2.csproj", "{22638D2A-8552-42D3-9231-4A1C9DBF75AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "задача 3", "задача 3\задача 3.csproj", "{A58DC7A1-4EE0-47E4-B810-0F06B42BCF37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8386B042-8729-45F3-A734-3EE4C08BEA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8386B042-8729-45F3-A734-3EE4C08BEA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8386B042-8729-45F3-A734-3EE4C08BEA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8386B042-8729-45F3-A734-3EE4C08BEA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22638D2A-8552-42D3-9231-4A1C9DBF75AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22638D2A-8552-42D3-9231-4A1C9DBF75AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22638D2A-8552-42D3-9231-4A1C9DBF75AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22638D2A-8552-42D3-9231-4A1C9DBF75AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58DC7A1-4EE0-47E4-B810-0F06B42BCF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58DC7A1-4EE0-47E4-B810-0F06B42BCF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58DC7A1-4EE0-47E4-B810-0F06B42BCF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58DC7A1-4EE0-47E4-B810-0F06B42BCF37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
